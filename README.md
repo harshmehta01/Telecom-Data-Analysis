@@ -19,7 +19,15 @@ Imagine yourself as Peter Pandey and perform the following task:
 ![Data Model](https://github.com/harshmehta01/Telecom-Data-Analysis/assets/97782632/48955ce8-df32-4107-b227-788089d87d56)
 
 ## Dashboard
-![Dashboard Image](https://github.com/harshmehta01/Telecom-Data-Analysis/assets/97782632/117e7573-6023-42c8-a261-18afa965ddd1)
+![Dashboard Image](https://github.com/harshmehta01/Telecom-Data-Analysis/assets/97782632/5b3934d2-37ca-49e9-a763-60980ed183bc)
+### Total Revenue
+![Total Revenue](https://github.com/harshmehta01/Telecom-Data-Analysis/assets/97782632/38742514-d342-4126-b692-c9dc00c425ee)
+### Average Revenue Per USer
+![Average Revenue Per User](https://github.com/harshmehta01/Telecom-Data-Analysis/assets/97782632/06743556-dfbd-4bfd-ae94-5892b0b4004b)
+### Total Active Users
+![Total Active Users](https://github.com/harshmehta01/Telecom-Data-Analysis/assets/97782632/deb86dad-1b95-4d8e-b646-d37c7d0ba41d)
+### Toral Unsubscribed Users
+![Total Unsunscribed Users](https://github.com/harshmehta01/Telecom-Data-Analysis/assets/97782632/2ebca751-a009-4727-be38-f81a5737d510)
 
 ## Some Important insights from the dashboard:
 •	Highest revenue was generated in Lucknow, while the lowest revenue was generated in Chennai.
