@@ -16,10 +16,10 @@ Imagine yourself as Peter Pandey and perform the following task:
 •	Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
 
 ## Data Model
-![Data Model](https://github.com/harshmehta01/Telecom-Data-Analysis/assets/97782632/48955ce8-df32-4107-b227-788089d87d56)
+![Data Model](Images/DataModel.png)
 
 ## Dashboard
-![Dashboard Image](https://github.com/harshmehta01/Telecom-Data-Analysis/assets/97782632/5b3934d2-37ca-49e9-a763-60980ed183bc)
+![Dashboard Image](Images/DashboardImage.png)
 
 ## Some Important insights from the dashboard:
 •	Highest revenue was generated in Lucknow, while the lowest revenue was generated in Chennai.
